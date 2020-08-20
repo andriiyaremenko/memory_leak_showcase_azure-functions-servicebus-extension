@@ -1,0 +1,6 @@
+.ionide
+bin
+obj
+.*.swp
+*.swp
+.DS_Store
