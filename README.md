@@ -13,4 +13,4 @@ inside `sendEvents.fsx`
 ### Running this project
 
 1) run `func host start` and `dotnet fsi /langversion:preview sendEvents.fsx` in separate consoles
-2) collect memory dumps in any way is suitable for you (i was using `dotnet gcdump`)
+2) collect memory dumps in any way suitable for you (i was using `dotnet gcdump`)
